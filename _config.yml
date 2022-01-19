@@ -3,6 +3,7 @@ email: rahulskumar2002@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This page is used to keep track of the experiments 
 baseurl: "Kerala-IoT-Challenge" # the subpath of your site, e.g. /blog
-theme:jekyll-theme-hacker
+url: "https://rsk2002.github.io/Kerala-IoT-Challenge/" # the base hostname & protocol for your site, e.g. http://example.com
+theme: jekyll-theme-cayman
 github:
   is_project_page: false
