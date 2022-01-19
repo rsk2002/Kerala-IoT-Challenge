@@ -58,15 +58,15 @@ void loop() {
 
 ## Circuit Diagram
 
-<iframe src="https://drive.google.com/file/d/1aOzUVYDMJTpzoL7NUcoNC5oCRviyUSPb/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1YPjiedcHP_Ihokb60dmVCOfKsKlr2Pdq/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Code
 
 ```
 
-int redLED = 10;
-int yellowLED = 7;
-int greenLED = 4;
+int redLED = 13;
+int yellowLED = 12;
+int greenLED = 11;
 
 void setup() {
   pinMode(redLED, OUTPUT);
@@ -97,7 +97,7 @@ void loop() {
 
 > In Traffic light the green LED blink about 5 second, then it is turnoff. Then the yellow LED blinks 3 times with a time interval of 0.5 second.Then the red LED blink about 5 seconds. This process continues.
 
-<iframe src="https://drive.google.com/file/d/1aNLQ9esjV7VXee6iXbvcMZN3RidI1_2V/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1YJvyOqDccmSm3IBs6ciZMgA4BsP3mSsB/preview" width="640" height="480" allow="autoplay"></iframe>
 
 # Experiment 3 : LED Chasing Effect
 
