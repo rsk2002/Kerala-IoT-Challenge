@@ -4,10 +4,7 @@
 
 
 # About Me
-> Hello all! I'm Rahul S Kumar. I'm an Electronics and Communication Engineering student form [**Government Engineering College Barton Hill**](http://www.gecbh.ac.in/).
-
-> <iframe src="https://drive.google.com/file/d/1YhFgeOg6rDPOChP5E89hsKezTPexxZ1d/preview" width="640" height="480" allow="autoplay"></iframe>
-> ![picture of rahul](https://github.com/rsk2002/Kerala-IoT-Challenge/blob/main/DSC03622.JPG?raw=true "Rahul S Kumar").
+> Hello all! I'm Rahul S Kumar. I'm an Electronics and Communication Engineering student form [**Government Engineering College Barton Hill**](http://www.gecbh.ac.in/). <img src="https://github.com/rsk2002/Kerala-IoT-Challenge/blob/main/DSC03622.JPG?raw=true" alt="Rahul S Kumar" style="height: 100px; width:100px;"/>
 
 > This page is maintained so as to keep the track of my experiments at different levels of **Kerala IoT Challenge**. The following table includes the links to all of my challenge write-ups. 
 
