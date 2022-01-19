@@ -16,13 +16,13 @@
 
 ## Circuit Diagram
 
-<iframe src="https://drive.google.com/file/d/1a7StPJyJS_xLxvAypo7lb9wxHR5HKGno/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1YVsUncvJI9P0f6c6wvlKDt7i-_iCFjk-/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Code
 
 ```
 
-int ledPin=10;   // define digital pin 10.
+int ledPin=13;   // define digital pin 10.
 
 void setup() {
   pinMode(ledPin,OUTPUT); // define pin with LED connected as output.
@@ -41,7 +41,7 @@ void loop() {
 
 > The LED is blinked with a time interval of 1 second
 
-<iframe src="https://drive.google.com/file/d/1_vFBUMslCSqiNlfPoc9ICI4rU2lpY0wn/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1YR6RU18iw2aAohKS4h9SS29SHtqQhAZW/preview" width="640" height="480" allow="autoplay"></iframe>
 
 # Experiment 2 : Traffic Light
 
