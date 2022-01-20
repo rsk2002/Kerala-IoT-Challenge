@@ -63,6 +63,7 @@ void loop() {
 * 10kohm resistor
 * BreadBoard
 * Jumper wires
+* USB cable
 
 ## Circuit Diagrams
 
