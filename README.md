@@ -14,7 +14,7 @@
 
 > | Challenge | Topic | Links |
 > | --------- | ----- | ----- |
-> | Level 1 | Arduino & Basic Electronics | [Documentation](https://rsk2002.github.io/Kerala-IoT-Challenge/Pages/page_1) \n [Assignment](https://rsk2002.github.io/Kerala-IoT-Challenge/Pages/assignment_1) |
+> | Level 1 | Arduino & Basic Electronics | [Documentation](https://rsk2002.github.io/Kerala-IoT-Challenge/Pages/page_1), [Assignment 1](https://rsk2002.github.io/Kerala-IoT-Challenge/Pages/assignment_1) |
 > | Level 2 | ESP32 & Internet technology | [Documentation]() |
 > | Level 3 | Advanced IoT | [Documentation]() | 
 > | Level 4 | Industry level IoT | [Documentation]() | 
